@@ -1,0 +1,19 @@
+{
+  "navigation": {
+    "port": "Bâbord",
+    "starboard": "Tribord",
+    "bow": "Proue",
+    "stern": "Poupe"
+  },
+  "commands": {
+    "anchor": "Jeter l'ancre",
+    "sail": "Hisser les voiles"
+  },
+  "equipment": {
+    "marine": {
+      "safety": {
+        "lifejacket": "Gilet de sauvetage"
+      }
+    }
+  }
+}

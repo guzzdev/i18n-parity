@@ -1,0 +1,19 @@
+{
+  "navigation": {
+    "port": "Port",
+    "starboard": "Starboard",
+    "bow": "Bow",
+    "stern": "Stern"
+  },
+  "commands": {
+    "anchor": "Drop anchor",
+    "sail": "Hoist sails"
+  },
+  "equipment": {
+    "marine": {
+      "safety": {
+        "lifejacket": "Life jacket"
+      }
+    }
+  }
+}

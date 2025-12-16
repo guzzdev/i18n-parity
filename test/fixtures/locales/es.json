@@ -1,0 +1,21 @@
+{
+  "navigation": {
+    "port": "Babor",
+    "starboard": "",
+    "bow": "Proa",
+    "stern": "Popa"
+  },
+  "commands": {
+    "sail": "Izar velas"
+  },
+  "equipment": {
+    "marine": {
+      "safety": {
+        "lifejacket": "Chaleco salvavidas"
+      }
+    }
+  },
+  "extra": {
+    "compass": "Brújula"
+  }
+}
